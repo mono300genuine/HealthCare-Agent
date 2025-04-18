@@ -41,10 +41,9 @@ NEXT_PUBLIC_TEACHABLE_URL=
 npm run dev
 ```
 
+# enjoy
 
-# Video
 
-https://github.com/user-attachments/assets/4ad11e96-7d56-4cd1-8b60-01fb2fe2d7f7
 
 
 
